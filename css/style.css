@@ -5,6 +5,12 @@ body
     margin: 0;
     padding: 0;
 }
+.wrapper{
+  background: url(../img/body-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
 
 .toggle
 {
